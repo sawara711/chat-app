@@ -71,4 +71,6 @@ group :test do
   gem "webdrivers"
 end
 
+#pry-rails、deviseというGemを追加します。
+gem 'pry-rails'
 gem 'devise'
