@@ -77,3 +77,6 @@ gem 'devise'
 
 # rails gのときの Deprecation warning 対策
 gem 'thor', '0.19.1'
+
+gem 'mini_magick'
+gem 'image_processing', '~> 1.2'
