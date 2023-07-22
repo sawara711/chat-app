@@ -175,7 +175,6 @@ GEM
       activesupport (= 7.0.6)
       method_source
       rake (>= 12.2)
-      thor (~> 1.0)
       zeitwerk (~> 2.5)
     rake (13.0.6)
     regexp_parser (2.8.1)
@@ -199,7 +198,7 @@ GEM
       sprockets (>= 3.0.0)
     stimulus-rails (1.2.1)
       railties (>= 6.0.0)
-    thor (1.2.2)
+    thor (0.19.1)
     timeout (0.4.0)
     turbo-rails (1.4.0)
       actionpack (>= 6.0.0)
@@ -243,6 +242,7 @@ DEPENDENCIES
   selenium-webdriver
   sprockets-rails
   stimulus-rails
+  thor (= 0.19.1)
   turbo-rails
   tzinfo-data
   web-console

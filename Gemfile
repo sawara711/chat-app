@@ -74,3 +74,6 @@ end
 #pry-rails、deviseというGemを追加します。
 gem 'pry-rails'
 gem 'devise'
+
+# rails gのときの Deprecation warning 対策
+gem 'thor', '0.19.1'
